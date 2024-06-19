@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+ES:wght@100..400&display=swap");
+
+body{
+    background-color: rgb(237, 234, 230);
+}
+
+
+
+#mainheading-gp {
+  padding: 0.2rem;
+  text-align: center;
+  font-family: "Playwrite ES", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  /* background-color: rgb(191, 187, 181); */
+
+}
+
+
